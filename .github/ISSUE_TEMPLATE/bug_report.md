@@ -1,38 +1,47 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: バグ報告
+about: 問題の報告を通じて改善に協力してください
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## バグの概要
+バグの簡潔で明確な説明を記載してください。
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 現状の共有
+発生箇所とその内容を記載してください。
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**例:**  
+- ページ読み込み時にエラーメッセージが表示される  
+- ボタンをクリックすると画面がフリーズする
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## スクリーンショット（必要に応じて）
+問題を説明するために、スクリーンショットを追加してください。
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**例:**  
+- エラーメッセージのスクリーンショット
+- 画面がフリーズする前の状態
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## 実行環境
+問題が発生した環境に関する情報を記載してください。
 
-**補足**
-Add any other context about the problem here.
+**例:**  
+- OS: Windows 10
+- ブラウザ: Chrome 90
+- バージョン: 1.2.3
+
+## 改善すべき箇所（わかっている場合）
+問題の原因や、どこを改善すべきかの方針を記載してください。
+
+**例:**  
+- 読み込み時の非同期処理を修正する
+- ボタンのイベントリスナーを見直す
+
+## 備考
+その他、問題に関連する追加の情報を記載してください。
+
+**例:**  
+- 発生頻度: 毎回
+- 特定のユーザーだけで発生する
+- 発生した時刻帯や操作手順
