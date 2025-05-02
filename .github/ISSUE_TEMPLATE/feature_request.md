@@ -1,20 +1,39 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: 新機能の提案
+about: このプロジェクトへの機能追加アイデアを提案する
+title: '[新機能] 実装したい要件の概要を記入'
+labels: 'enhancement'
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 🌟 実装したい機能の概要（タイトルにも簡潔に記載してください）
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+提案する機能の簡単な説明を記載してください。
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 🔍 現状の共有（問題がある場合）
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+現在の状態や問題点を記載してください（例：機能が存在せず手動対応している、ユーザー体験が悪いなど）。
+
+## 🛠 実装したい機能の詳細
+
+どの画面・コンポーネント・フローに対して、どのような変更や追加を行いたいかを具体的に記述してください。
+
+**例：**  
+- 「◯◯ページ」にボタンを追加し、クリックで◯◯が実行されるようにしたい  
+- 一覧画面にフィルター機能を追加したい
+
+## 🖼 イメージ（必要に応じて）
+
+仕様やUIが分かりにくい場合は、モック、図、Web画面イメージ、フローチャートなどを共有してください。
+
+## 🧭 実装の方向性
+
+機能の実現に向けて、どのファイル・コンポーネント・関数を編集すれば良さそうか、わかっている範囲で記載してください。
+
+## 💡 その他の解決法
+
+別の手段や代替案があれば記載してください。
+
+## 📝 備考
+
+その他、共有しておきたいことがあれば記載してください。
